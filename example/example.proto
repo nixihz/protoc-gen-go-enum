@@ -1,0 +1,13 @@
+syntax = "proto3";
+
+package example;
+
+option go_package = "github.com/nixihz/protoc-gen-go-enum/example";
+
+// Platform Enum
+enum Platform{
+  // Android OS
+  ANDROID = 0;
+  // iOS
+  IOS = 1;
+}
