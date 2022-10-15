@@ -1,6 +1,6 @@
 # protoc-gen-go-enum
 
-Allow to generate const and map from proto and its comment。
+Allow to generate const and map from proto and its comment.
 
 ### Installation
 
